@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Mezran/portfolio-stephen_allen/static/css/main.b100e6da.chunk.css",
-    "main.js": "/Mezran/portfolio-stephen_allen/static/js/main.621ffd2b.chunk.js",
-    "main.js.map": "/Mezran/portfolio-stephen_allen/static/js/main.621ffd2b.chunk.js.map",
-    "runtime-main.js": "/Mezran/portfolio-stephen_allen/static/js/runtime-main.25cb23a8.js",
-    "runtime-main.js.map": "/Mezran/portfolio-stephen_allen/static/js/runtime-main.25cb23a8.js.map",
-    "static/js/2.2d8c5693.chunk.js": "/Mezran/portfolio-stephen_allen/static/js/2.2d8c5693.chunk.js",
-    "static/js/2.2d8c5693.chunk.js.map": "/Mezran/portfolio-stephen_allen/static/js/2.2d8c5693.chunk.js.map",
-    "index.html": "/Mezran/portfolio-stephen_allen/index.html",
-    "precache-manifest.23fbb4c1a7379eb7b87db1e794af88ba.js": "/Mezran/portfolio-stephen_allen/precache-manifest.23fbb4c1a7379eb7b87db1e794af88ba.js",
-    "service-worker.js": "/Mezran/portfolio-stephen_allen/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/Mezran/portfolio-stephen_allen/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/Mezran/portfolio-stephen_allen/static/media/logo.25bf045c.svg"
+    "main.css": "/portfolio-stephen_allen/static/css/main.b100e6da.chunk.css",
+    "main.js": "/portfolio-stephen_allen/static/js/main.40629294.chunk.js",
+    "main.js.map": "/portfolio-stephen_allen/static/js/main.40629294.chunk.js.map",
+    "runtime-main.js": "/portfolio-stephen_allen/static/js/runtime-main.7e98f7dc.js",
+    "runtime-main.js.map": "/portfolio-stephen_allen/static/js/runtime-main.7e98f7dc.js.map",
+    "static/js/2.2d8c5693.chunk.js": "/portfolio-stephen_allen/static/js/2.2d8c5693.chunk.js",
+    "static/js/2.2d8c5693.chunk.js.map": "/portfolio-stephen_allen/static/js/2.2d8c5693.chunk.js.map",
+    "index.html": "/portfolio-stephen_allen/index.html",
+    "precache-manifest.02c72f2dc43ea8021aa26cc889eb0224.js": "/portfolio-stephen_allen/precache-manifest.02c72f2dc43ea8021aa26cc889eb0224.js",
+    "service-worker.js": "/portfolio-stephen_allen/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/portfolio-stephen_allen/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/portfolio-stephen_allen/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.25cb23a8.js",
+    "static/js/runtime-main.7e98f7dc.js",
     "static/js/2.2d8c5693.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.621ffd2b.chunk.js"
+    "static/js/main.40629294.chunk.js"
   ]
 }
