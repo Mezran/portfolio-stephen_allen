@@ -2,7 +2,7 @@
   "name": "portfolio-stephen_allen",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gitname.github.io/Mezran/portfolio-stephen_allen",
+  "homepage": "https://mezran.github.io/portfolio-stephen_allen/",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
