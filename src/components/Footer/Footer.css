@@ -1,0 +1,14 @@
+.footer{
+  position: relative;
+  bottom: 0;
+  background-color: #1d242a;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content:center;
+}
+
+.box{
+  width: 64px;
+  height: 64px;
+  margin: 20px;
+}

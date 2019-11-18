@@ -3,7 +3,7 @@ import './ProjectCardR.css';
 
 const cardL = (props) => {
   return (
-    <section className = 'cardLayoutR'>
+    <section className ={props.bga}>
       <div className = 'contentR'>
         <h4>{props.title}</h4>
         <p>

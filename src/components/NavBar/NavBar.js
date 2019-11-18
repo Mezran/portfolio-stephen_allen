@@ -7,7 +7,7 @@ const navBar = (props) => {
       <h1>
         <a>Stephen Allen</a>
       </h1>
-      <nav>Menu</nav>
+      
     </div>
   )
 }

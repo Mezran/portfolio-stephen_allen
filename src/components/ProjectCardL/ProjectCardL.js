@@ -3,7 +3,7 @@ import './ProjectCardL.css';
 
 const cardL = (props) => {
   return (
-    <section className = 'cardLayoutL'>
+    <section className = {props.bga}>
       <div className = 'imageL'>
         <a href={props.projectLink} target="_blank">
           <img src={props.projectImage}/>

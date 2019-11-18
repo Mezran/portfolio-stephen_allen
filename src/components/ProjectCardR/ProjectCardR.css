@@ -3,7 +3,7 @@
   position:relative;
   display:flex;
   align-items: center;
-  background-color: rgba(0, 0, 0, 0.075);
+
 }
 
 .imageR{
@@ -21,4 +21,48 @@
 
 .gitHubIcon{
   width: 32px;
+}
+
+
+.bg2{
+  background-color: rgba(0, 0, 0, 0.15);
+  width: 100%;
+  position:relative;
+  display:flex;
+  align-items: center;
+}
+.bg4{
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  position:relative;
+  display:flex;
+  align-items: center;
+}
+.bg6{
+  background-color: rgba(0, 0, 0, 0.45);
+  width: 100%;
+  position:relative;
+  display:flex;
+  align-items: center;
+}
+.bg8{
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  position:relative;
+  display:flex;
+  align-items: center;
+}
+.bg10{
+  background-color: rgba(0, 0, 0, 0.75);
+  width: 100%;
+  position:relative;
+  display:flex;
+  align-items: center;
+}
+.bg12{
+  background-color: rgba(0, 0, 0, 0.9);
+  width: 100%;
+  position:relative;
+  display:flex;
+  align-items: center;
 }
