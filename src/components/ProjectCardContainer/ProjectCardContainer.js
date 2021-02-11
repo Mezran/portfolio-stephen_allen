@@ -13,7 +13,7 @@ const projectCardContainer = (props) => {
   return(
     <div className="cardContainer">
       <ProjectCardL
-        projectLink='https://pet-life-2019.herokuapp.com'
+        projectLink='https://github.com/Mezran/Pet-Life'
         projectImage={PetLife}
         title='Pet Life'
         techUsed='React.js, Express.js, Node.js, Sass, MongoDB'
@@ -23,7 +23,7 @@ const projectCardContainer = (props) => {
         bga="bg1"
       />
       <ProjectCardR
-        projectLink='https://mezran.github.io/Hearthstone-Helper/'
+        projectLink='https://github.com/Mezran/Hearthstone-Helper'
         projectImage={HearthstoneHelper}
         title='Hearthstone Helper'
         techUsed='HTML, CSS, Twitch.tv API, Hearthstone card database API'
